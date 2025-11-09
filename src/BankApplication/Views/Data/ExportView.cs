@@ -39,7 +39,7 @@ public override void OnStart(object[] args)
     {
         IViewManager manager = Services.Get<IViewManager>();
 
-        _infoLabel = new LabelUnit("label", $"");
+        _infoLabel = new LabelUnit("label", "");
         _fileInput = new PathInput("path", "Введите путь", false);
         _typeChooser = new HiddenChooserUnit<FileType>("type", "Тип файла", 
             [FileType.Csv, FileType.Json, FileType.Yaml], ["CSV", "JSON", "YAML"]);
