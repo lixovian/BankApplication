@@ -1,6 +1,6 @@
 ﻿using BankApplication.Service;
-using BankApplication.Service.Formatter;
-using BankServices.Bank.DataTransferObjects;
+using BankApplication.Service.Formating;
+using BankServices.Bank.Data.DataTransferObjects;
 using GuiLibrary.Assembled;
 using GuiLibrary.Base;
 using GuiLibrary.Simple;
