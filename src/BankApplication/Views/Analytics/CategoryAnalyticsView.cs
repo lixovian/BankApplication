@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using BankApplication.Service;
 using BankApplication.Service.Formating;
-using BankServices.Bank.Realization.DomainFacades;
+using BankServices.Realization.DomainFacades;
 using GuiLibrary.Assembled;
 using GuiLibrary.Base;
 using GuiLibrary.Simple;

@@ -2,12 +2,12 @@
 using BankApplication.Service.Formating.Formatters.Category;
 using BankApplication.Service.Formating.Formatters.DateRange;
 using BankApplication.Service.Formating.Formatters.Operation;
-using BankServices.Bank.Data.DataTransferObjects;
-using BankServices.Bank.Data.DataTransferObjects.BankAccount;
-using BankServices.Bank.Data.DataTransferObjects.Category;
-using BankServices.Bank.Data.DataTransferObjects.Operation;
-using BankServices.Bank.Realization.Analytics;
-using BankServices.Bank.Realization.DomainFacades;
+using BankServices.Data.DataTransferObjects;
+using BankServices.Data.DataTransferObjects.BankAccount;
+using BankServices.Data.DataTransferObjects.Category;
+using BankServices.Data.DataTransferObjects.Operation;
+using BankServices.Realization.Analytics;
+using BankServices.Realization.DomainFacades;
 
 namespace BankApplication.Service.Formating;
 

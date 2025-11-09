@@ -1,8 +1,8 @@
 ﻿using System.Text;
 using BankApplication.Service.Formating.Formatters.Operation;
-using BankServices.Bank.Data.DataTransferObjects.Category;
-using BankServices.Bank.Data.DataTransferObjects.Operation;
-using BankServices.Bank.Data.Objects.Service;
+using BankServices.Data.DataTransferObjects.Category;
+using BankServices.Data.DataTransferObjects.Operation;
+using BankServices.Data.Objects.Service;
 
 namespace BankApplication.Service.Formating.Formatters.Category;
 

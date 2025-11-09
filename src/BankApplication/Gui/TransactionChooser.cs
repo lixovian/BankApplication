@@ -1,4 +1,4 @@
-﻿using BankServices.Bank.Data.Objects.Service;
+﻿using BankServices.Data.Objects.Service;
 using GuiLibrary.Simple.Choosers;
 
 namespace BankApplication.Gui;

@@ -1,4 +1,4 @@
-﻿using BankServices.Bank.Data.DataTransferObjects;
+﻿using BankServices.Data.DataTransferObjects;
 
 namespace BankApplication.Service.Formating.Formatters.DateRange;
 

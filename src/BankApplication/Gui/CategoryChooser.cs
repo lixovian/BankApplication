@@ -1,4 +1,4 @@
-﻿using BankServices.Bank.Data.DataTransferObjects.Category;
+﻿using BankServices.Data.DataTransferObjects.Category;
 using GuiLibrary.Simple.Choosers;
 
 namespace BankApplication.Gui;

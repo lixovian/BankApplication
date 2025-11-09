@@ -1,5 +1,5 @@
-﻿using BankServices.Bank.Connection.CommandMediators.Ui;
-using BankServices.Bank.Data.DataTransferObjects;
+﻿using BankServices.Connection.CommandMediators.Ui;
+using BankServices.Data.DataTransferObjects;
 using GuiLibrary.Simple;
 using ViewManagerLibrary;
 

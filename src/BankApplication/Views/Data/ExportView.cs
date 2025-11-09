@@ -1,7 +1,7 @@
 ﻿using BankApplication.Service;
-using BankServices.Bank.Connection.Commands.CommandHandler;
-using BankServices.Bank.Data.DataTransferObjects;
-using BankServices.Bank.Data.Objects.Service;
+using BankServices.Connection.Commands.CommandHandler;
+using BankServices.Data.DataTransferObjects;
+using BankServices.Data.Objects.Service;
 using GuiLibrary.Assembled;
 using GuiLibrary.Base;
 using GuiLibrary.Simple;

@@ -1,6 +1,6 @@
-﻿using BankServices.Bank.Data.DataTransferObjects.BankAccount;
-using BankServices.Bank.Data.DataTransferObjects.Category;
-using BankServices.Bank.Data.DataTransferObjects.Operation;
+﻿using BankServices.Data.DataTransferObjects.BankAccount;
+using BankServices.Data.DataTransferObjects.Category;
+using BankServices.Data.DataTransferObjects.Operation;
 
 namespace BankApplication.Service.Formating.Formatters.Operation;
 

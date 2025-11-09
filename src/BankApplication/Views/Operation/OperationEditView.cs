@@ -1,11 +1,11 @@
 ﻿using BankApplication.Gui;
 using BankApplication.Service;
 using BankApplication.Service.Formating;
-using BankServices.Bank.Connection.Commands;
-using BankServices.Bank.Connection.Commands.CommandHandler;
-using BankServices.Bank.Data.DataTransferObjects.Category;
-using BankServices.Bank.Data.DataTransferObjects.Operation;
-using BankServices.Bank.Realization.DomainFacades;
+using BankServices.Connection.Commands;
+using BankServices.Connection.Commands.CommandHandler;
+using BankServices.Data.DataTransferObjects.Category;
+using BankServices.Data.DataTransferObjects.Operation;
+using BankServices.Realization.DomainFacades;
 using GuiLibrary.Assembled;
 using GuiLibrary.Base;
 using GuiLibrary.Simple;
